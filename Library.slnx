@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/after/">
+    <Project Path="after/Library.After.csproj" />
+  </Folder>
+  <Folder Name="/before/">
+    <Project Path="before/Library.Before.csproj" />
+  </Folder>
+</Solution>
